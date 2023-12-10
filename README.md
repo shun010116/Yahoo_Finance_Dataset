@@ -16,7 +16,7 @@ Yahoo Finance에서 원하는 종목을 가져와 시각화하고 이를 Random 
 ## 성능 측정
 ```python
 # 성능 측정
-mse = mean_squared_error(y, y_pred)
+mse = mean_squared_error(y, y_pred) #y : 실제 종가, y_pred : 예측 종가
 
 print(f'Mean Squared Error: {mse}') #AAPL) Mean Squared Error: 0.8135291959313535, GOOGL) Mean Squared Error: 0.5624618902569566
 ```
