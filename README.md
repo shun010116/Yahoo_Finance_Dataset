@@ -14,7 +14,7 @@ Yahoo Finance에서 원하는 종목을 가져와 시각화하고 이를 Random 
   <img src='./Example/GOOGL_2.png' width='250px' height='250px'/>
 
 ## 성능 측정
-```
+```python
 # 성능 측정
 mse = mean_squared_error(y, y_pred)
 
