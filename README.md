@@ -1,5 +1,5 @@
 # Summary
-Yahoo Finance에서 원하는 종목을 가져와 시각화하고 이를 학습해 종가를 예측
+Yahoo Finance에서 원하는 종목을 가져와 시각화하고 이를 학습해 해당 종목의 종가를 예측 후 성능 평가
 
 ## Stock Price & Moving Average
 -AAPL(애플)
